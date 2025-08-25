@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "4518bfe5-a791-4ddf-a182-1362249ed2e8",
+		"name": "tarefa (usuarios)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47863974",
+		"_collection_link": "https://douglas-antonio-s-team.postman.co/workspace/Curso-ebac~7e71387b-de64-476d-8d6c-625c4cd0381a/collection/47863974-4518bfe5-a791-4ddf-a182-1362249ed2e8?action=share&source=collection_link&creator=47863974"
+	},
+	"item": [
+		{
+			"name": "Cadastrar usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "listar usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "buscar usuarios por id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Editar usuario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Excluir usuario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

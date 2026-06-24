@@ -57,6 +57,12 @@ Ao executar uma coleção de API, é importante observar:
 - consistência entre request e response;
 - comportamento para dados inválidos.
 
+## Critérios de qualidade para a coleção
+
+Uma coleção de API útil para QA deve permitir que outra pessoa reproduza o cenário com baixo atrito. Isso significa que nomes de requisições precisam ser claros, variáveis devem ter propósito definido e os exemplos de payload devem representar regras reais do serviço.
+
+Neste repositório, o botão `Run in Postman` facilita o acesso rápido à coleção. O próximo nível de maturidade seria versionar também o arquivo exportado da collection e um ambiente com variáveis, deixando o fluxo ainda mais auditável.
+
 ## Leitura de QA sobre Postman
 
 Postman é uma ferramenta muito útil para exploração, documentação e validação manual de APIs. Mesmo quando existe automação, coleções organizadas ajudam em momentos como:
